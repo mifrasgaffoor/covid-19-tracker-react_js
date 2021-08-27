@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  flex-direction: column;
+}
+
+h3 {
+  color: rgb(14, 14, 93);
+  margin-bottom: 20px;
+  font-weight: 20px;
+  font-size: small;
+  margin-top: 20px;
+}
+@media (max-width: 770px) {
+  .container {
+    width: 100%;
+  }
+}
