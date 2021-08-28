@@ -1,3 +1,3 @@
 Covid-19 tracker app
-Demo 👇
+Demo =>
 https://mifmif.netlify.app/
